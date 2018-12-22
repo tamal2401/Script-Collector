@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/client-combined-3.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/client-combined-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium SetUP/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
