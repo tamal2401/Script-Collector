@@ -13,10 +13,10 @@ public class EnumUtils {
 	public static final String chromeDriverPath = "";
 	public static final String IeDriverPath ="";
 	public static final String excelpath = "";
-	public static final String JIRA = "";
-	public static final String QC = "";
+	public static final String JIRA = "JIRA";
+	public static final String QC = "QC_ALM";
 	
-	public static final String  JiraLink = "";
+	public static final String JiraLink = "";
 	public static final String user_Id_Element = "";
 	public static final String pwd_Id_Element = "";
 	public static final String submit_Button_Id = "";

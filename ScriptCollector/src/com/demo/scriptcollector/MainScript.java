@@ -38,6 +38,8 @@ public class MainScript {
 		model.setFlowName(flowName);
 		
 		StrategyResolver resolver = new StrategyResolver();
+		resolver.buildStrategy(model).executeStrategy(model);
+		
 		SeleniumDriver.driver.wait(5000);
 		SeleniumDriver.closeDriver();
 	}

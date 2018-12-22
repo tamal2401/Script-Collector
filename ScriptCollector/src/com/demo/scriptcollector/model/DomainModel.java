@@ -1,12 +1,14 @@
 package com.demo.scriptcollector.model;
 
+import com.demo.scriptcollector.utils.EnumUtils;
+
 /**
  * @author TAPU
  *
  */
 public abstract class DomainModel implements IDomainModel{
 
-	public String url = "jira url";
+	public String url = EnumUtils.JiraLink;
 	public String flowName;
 	public String storyNumber;
 	public String  description;
